@@ -1,0 +1,19 @@
+{
+  "name": "@zibtek/test_ci_buildkite",
+  "version": "1.0.0",
+  "description": "To check Buildkite CI is working fine with npmE",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/npmetest/test_CI_Buildkite.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/npmetest/test_CI_Buildkite/issues"
+  },
+  "homepage": "https://github.com/npmetest/test_CI_Buildkite#readme"
+}
