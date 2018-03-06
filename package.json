@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/npmetest/test_CI_Buildkite/issues"
   },
-  "homepage": "https://github.com/npmetest/test_CI_Buildkite#readme"
+  "homepage": "https://github.com/npmetest/test_CI_Buildkite#readme",
+  "dependencies": {
+    "@zibtek/testing": "^10.0.0",
+    "express": "^4.16.2"
+  }
 }
