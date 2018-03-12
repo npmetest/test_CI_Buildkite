@@ -2,5 +2,5 @@ steps:
   - name: ":node:"
     command: "scripts/ci/test.sh"
     env:
-     - NPM_TOKEN=977a5fe4-f902-4bd6-97a1-3db4c005272b
+     - NPM_TOKEN=5014aab2cfe61ee8256c9bfdbce8e64fdaca63c4
 
