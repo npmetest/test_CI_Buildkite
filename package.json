@@ -17,8 +17,7 @@
   },
   "homepage": "https://github.com/npmetest/test_CI_Buildkite#readme",
   "dependencies": {
-    "@zibtek/test-ci": "^1.0.0",
-    "@zibtek/testing": "^10.0.0",
+    "chai": "^4.1.2",
     "express": "^4.16.2"
   }
 }
