@@ -2,7 +2,7 @@
 
 set -eu
 
-export NPM_TOKEN="963c6dffa7cf92510918c2e76ca21193a168ff9a"
+export NPM_TOKEN="5014aab2cfe61ee8256c9bfdbce8e64fdaca63c4"
 
 echo $NPM_TOKEN
 
