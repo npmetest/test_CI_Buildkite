@@ -2,7 +2,9 @@
 
 set -eu
 
-export NPM_TOKEN="977a5fe4-f902-4bd6-97a1-3db4c005272b"
+export NPM_TOKEN="963c6dffa7cf92510918c2e76ca21193a168ff9a"
+
+echo $NPM_TOKEN
 
 printf "@zibtek:registry=http://npme.zibtek.us:8080\n//npme.zibtek.us:8080/:_authToken=${NPM_TOKEN}" >> ~/.npmrc
 
