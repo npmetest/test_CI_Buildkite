@@ -9,4 +9,4 @@ printf "\n@zibtek:registry=http://npme.zibtek.us:8080/\n//npme.zibtek.us:8080/:_
 
 cat ~/.npmrc
 
-sudo npm install --verbose
+npm install --verbose
