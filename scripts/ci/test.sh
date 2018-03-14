@@ -9,6 +9,6 @@ printf "\n@zibtek:registry=http://npme.zibtek.us:8080/\n//npme.zibtek.us:8080/:_
 
 cat ~/.npmrc
 
-npm cache clear --force
+#npm cache clear --force
 
 npm install --verbose
